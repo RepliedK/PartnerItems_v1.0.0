@@ -1,0 +1,9 @@
+name: PartnerItem
+version: 1.0.0
+api: 5.0.0
+main: PartnerItems\PartnerItems
+
+permissions:
+  ability.command:
+    description: partneritems
+    default: op

@@ -1,0 +1,31 @@
+#Store Link for Lore Items
+store: store.server.com
+
+#Global Cooldown Manager
+global-cooldown: 10
+
+#Abilitys Individual Cooldown Manager
+strength-cooldown: 45
+tankmode-cooldown: 45
+focusmode-cooldown: 120
+antitrapper-cooldown: 120
+weirdluck-cooldown: 90
+switchstick-cooldown: 90
+ballofrage-cooldown: 150
+closecall-cooldown: 150
+zap-cooldown: 90
+tpbow-cooldown: 120
+portablearcher-cooldown: 150
+grappling-cooldown: 10
+teleportationball-cooldown: 15
+pumpkin-cooldown: 150
+ninjastar-cooldown: 150
+fullinvis-cooldown: 150
+
+#Abilitys Effects Duration
+focusmode-duration: 10
+antitrapper-tag: 10
+fullinviseffect-duration: 150
+
+#Abilitys Effects Settings
+focusmode-percentage: 30
